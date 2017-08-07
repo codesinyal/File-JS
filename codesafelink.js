@@ -19,13 +19,18 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
 if(x=="1"){xxx="your-workplace-is-your-diamond-castle.html"}
 if(x=="2"){xxx="give-best-appearance-at-trade-shows.html"}
 if(x=="3"){xxx="ways-in-which-successful-pitch-can-be.html"}
 if(x=="4"){xxx="how-to-find-tradesman-online.html"}
-if(x=="5"){xxx="dont-get-taken-advantage-of-due-to-fraud.html"}a_to_ve[i].href="http://www.codesinyal.ga/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="dont-get-taken-advantage-of-due-to-fraud.html"}
+if(x=="6"){xxx="safety-tips-for-night-driving.html"}
+if(x=="7"){xxx="successful-automotive-marketing.html"}
+if(x=="8"){xxx="insurance-quotes-in-digital-age.html"}
+if(x=="9"){xxx="tips-for-finding-low-priced-insurance.html"}
+if(x=="10"){xxx="protecting-your-company-with-business.html"}a_to_ve[i].href="http://www.codesinyal.ga/2017/08/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
